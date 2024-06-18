@@ -2,3 +2,28 @@ svg{
     float: right;
     margin-left: 10px;
 }
+.photo{
+    width: 300px;
+    height: 300px;
+}
+.headder{
+    background-color: rgb(9, 150, 150);
+}
+#about-me{
+    background-color: white;
+    margin-right: 80px;
+}
+#photo-container{
+    padding-left: 30px;
+
+}
+h1{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+h2{
+    padding-top: 30px;
+}
+h5{
+    padding-top: 20px;
+}
