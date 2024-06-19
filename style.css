@@ -27,3 +27,24 @@ h2{
 h5{
     padding-top: 20px;
 }
+#footer{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    
+}
+#footer1{
+    float: left;
+   margin-top: 5px;
+   margin-right: 15px;
+   color: white;
+}
+footer{
+    background-color: rgb(9, 150, 150);
+    color: white;
+}
+h6{
+    color:white;
+    
+}
